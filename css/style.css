@@ -75,7 +75,8 @@ header h2{
     color: #5B4D8C;
 }
 .grid{
-    height: 100px;
+    height: auto;
+    margin-top: 40px;
     border: 1px solid black;
     justify-content: center;
     align-items: center;
@@ -106,6 +107,5 @@ header h2{
  a{
     text-decoration: none;
  }
- .grid-2{
-    
- }
+ 
+
