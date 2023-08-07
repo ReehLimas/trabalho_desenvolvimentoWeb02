@@ -7,7 +7,7 @@
 }
 .center{
     display: flex;
-    max-width: 1800px;
+    max-width: 2000px;
     margin: 0 auto;
     padding: 0 5%;
     flex-wrap: wrap;
@@ -85,7 +85,7 @@ header h2{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     margin: 20px 50px;
-    color: black;
+    color: white;
  }
  .outras-noticias-1{
     display: inline-block;
@@ -103,4 +103,9 @@ header h2{
     font-family: 'Nunito Sans', sans-serif;
     font-family: 'Victor Mono', monospace;
  }
- 
+ a{
+    text-decoration: none;
+ }
+ .grid-2{
+    
+ }
